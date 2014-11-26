@@ -57,7 +57,7 @@ public class MyNode {
     this.father = father;
   }
 
-  /**
+  /**Hola
    * Gets the right child of this node.
    *
    * @return The current right child of this node.
