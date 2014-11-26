@@ -45,7 +45,7 @@ public class MyNode {
    * @return The current father of this node.
    */
   public MyNode getFather() {
-    return father;
+    return fatherChristmas;
   }
 
   /**
